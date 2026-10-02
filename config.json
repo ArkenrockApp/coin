@@ -5,7 +5,7 @@
   "interstitial_min_watch_ms": 5000,
   "rewarded_min_watch_ms": 15000,
   "creatives": [
-        {
+      {
       "id": "fishing_interstitial_3",
       "format": "image",
       "placements": ["interstitial", "rewarded"],
